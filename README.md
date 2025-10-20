@@ -52,3 +52,5 @@ It shows the current time using rotating hour, minute, and second hands, and als
 ## 🧑‍💻 Author
 **Shifat**
 
+## 📝 License
+- [MIT License](LICENSE)
